@@ -19,4 +19,4 @@ OR
 
 "Veras, D. et al. Context-Aware Techniques for Cross-Domain Recommender Systems. In: 2015 Brazilian Conference on Intelligent Systems (BRACIS). IEEE, 2015. p. 282-287."
 
-For more information and password, mail me: douglassverass@gmail.com
+For more information, mail me: douglassverass@gmail.com
