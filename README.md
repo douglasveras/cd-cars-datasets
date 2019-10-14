@@ -6,17 +6,16 @@ We provide here two datasets. One of them for evaluating CD-CARS algorithms in t
 [1] - LESKOVEC, J.; ADAMIC, L. A.; HUBERMAN, B. A. The dynamics of viral marketing. ACM Transactions on the Web (TWEB), ACM, v. 1, n. 1, p. 5, 2007.
 
 Please, cite our paper: 
-@inproceedings{douglas2015context,
-  title={Context-Aware Techniques for Cross-Domain Recommender Systems},
-  author={Veras, Douglas and Prudencio, Ricardo and Ferraz, Carlos and Bispo, Alysson and Prota, Thiago},
-  booktitle={2015 Brazilian Conference on Intelligent Systems (BRACIS)},
-  pages={282--287},
-  year={2015},
-  organization={IEEE}
+@article{veras2019cd,
+  title={CD-CARS: Cross-Domain Context-Aware Recommender Systems},
+  author={V{\'e}ras, Douglas and Prud{\^e}ncio, Ricardo and Ferraz, Carlos},
+  journal={Expert Systems with Applications},
+  year={2019},
+  publisher={Elsevier}
 }
 
 OR 
 
-"Veras, D. et al. Context-Aware Techniques for Cross-Domain Recommender Systems. In: 2015 Brazilian Conference on Intelligent Systems (BRACIS). IEEE, 2015. p. 282-287."
+"Véras, D., Prudêncio, R., & Ferraz, C. (2019). CD-CARS: Cross-Domain Context-Aware Recommender Systems. Expert Systems with Applications."
 
-For more information, mail me: douglassverass@gmail.com
+For more information, mail me: douglassverass@gmail.com or douglas.veras@ufrpe.br
