@@ -5,6 +5,9 @@ We provide here two datasets. One of them for evaluating CD-CARS algorithms in t
 
 [1] - LESKOVEC, J.; ADAMIC, L. A.; HUBERMAN, B. A. The dynamics of viral marketing. ACM Transactions on the Web (TWEB), ACM, v. 1, n. 1, p. 5, 2007.
 
+Each row in the datasets represents: "user \t item \t rating \t context (e.g. c0 ={Sunday (1), Weekend (1), SAO_PAULO (1794), SAO_PAULO (235), Brazil (14),
+Unknown (-1), Unknown (-1), Unknown (-1)})"
+
 Please, cite our paper: 
 @article{veras2019cd,
   title={CD-CARS: Cross-Domain Context-Aware Recommender Systems},
